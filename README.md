@@ -1,13 +1,13 @@
 <h1 align="center">Howdy, stranger! 🤠  I'm Konnor Thatcher</h1>
 <h3 align="center">A full-stack developer from the United States</h3>
 
-- 🌱 I’m currently learning **more about the backend.**
+- 🌱 I’m currently learning more about Python and SQL to improve upon my backend knowledge, as well as refining my skills in HTML/CSS and React.
 
-- 💬 Ask me about **JavaScript & React**
+- 🎢 Check out my most recent project <a href="https://github.com/KonnorThatcher/Coaster-Critics" target="blank">Coaster Critics</a>, a website for coaster enthusiasts to rate and review their favorite amusement parks and coasters.
 
-- 📫 How to reach me **konnormac12@gmail.com**
+- 👨‍💻 Current Project in Progress: The <ins>**New Vegas Playthrough Survey**</ins> , a survey detailing players most recent playthrough of the legendary role-playing game **Fallout: New Vegas**.
 
-<h3 align="left">Here's my linkedin:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/konnor-thatcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konnor-thatcher" height="30" width="40" /></a>
 </p>
