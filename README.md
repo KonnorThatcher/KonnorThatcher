@@ -1,6 +1,8 @@
 <h1 align="center">Howdy, stranger! 🤠  I'm Konnor Thatcher</h1>
 <h3 align="center">A full-stack developer from the United States</h3>
 
+<p align="center"><img width="60%" src="https://static.wikia.nocookie.net/fallout/images/3/34/FNV_UnificationMonument.jpg" /></p>
+
 - 🌱 I’m currently learning more about Python and SQL to improve upon my backend knowledge, as well as refining my skills in HTML/CSS and React.
 
 - 🎢 Check out my most recent project <a href="https://github.com/KonnorThatcher/Coaster-Critics" target="blank">Coaster Critics</a>, a website for coaster enthusiasts to rate and review their favorite amusement parks and coasters.
